@@ -1,0 +1,15 @@
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.csproj.AssemblyReference.cache
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.AssemblyInfoInputs.cache
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.AssemblyInfo.cs
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.csproj.CoreCompileInputs.cache
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\bin\Debug\net6.0\AddressBookException.exe
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\bin\Debug\net6.0\AddressBookException.deps.json
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\bin\Debug\net6.0\AddressBookException.runtimeconfig.json
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\bin\Debug\net6.0\AddressBookException.dll
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\bin\Debug\net6.0\AddressBookException.pdb
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.dll
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\refint\AddressBookException.dll
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.pdb
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\AddressBookException.genruntimeconfig.cache
+C:\Users\sudheer\source\repos\AddressBookException\AddressBookException\obj\Debug\net6.0\ref\AddressBookException.dll
